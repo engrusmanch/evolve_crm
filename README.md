@@ -1,3 +1,6 @@
+# Note
+These commits are coming from bit bucket private repos
+
 # EVOLVE CRM
 
 [//]: # (<img src="assets/app_icon.png" alt="App Icon" height="100" width="100">)
